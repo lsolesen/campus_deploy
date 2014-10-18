@@ -1,0 +1,7 @@
+core = "7.x"
+description = "Deploy module for Campus"
+name = "VIH Deploy"
+package = "Campus"
+project = "campus_deploy"
+version = "7.x-0.1"
+
