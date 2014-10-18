@@ -5,3 +5,5 @@ package = "Campus"
 project = "campus_deploy"
 version = "7.x-0.1"
 
+dependencies[] = lingotek
+dependencies[] = i18nviews
